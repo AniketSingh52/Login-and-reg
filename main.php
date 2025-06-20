@@ -11,7 +11,7 @@
     <form method="get">
         <main class="table">
             <section class="table__header">
-                <h1>Registered Users</h1>
+                <h1>Registered</h1>
                 </div>
                 <div class="input-group">
                     <a href="register.php"><input type="button" value="Add"></a>
@@ -23,11 +23,11 @@
                     <table>
                         <thead>
                             <tr>
-                                <th>id</th>
+                                <th>id </th>
                                 <th>Name</th>
                                 <th>Email</th>
                                 <th>Password</th>
-                                <th colspan="2">Action</th>
+                                <th colspan="2">Action </th>
                             </tr>
                         </thead>
                         <tbody>
