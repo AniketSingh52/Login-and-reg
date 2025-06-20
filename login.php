@@ -10,7 +10,7 @@
       <div class="flex items-center justify-center w-full lg:p-12">
         <div class="flex items-center xl:p-10">
           <form class="flex flex-col w-full h-full pb-6 text-center bg-white rounded-3xl" action="<?php $_PHP_SELF ?>" method="post">
-            <h3 class="mb-3 text-4xl font-extrabold text-dark-grey-900">Sign In</h3>
+            <h3 class="mb-3 text-4xl font-extrabold text-dark-grey-900">Sign In form</h3>
             <p class="mb-4 text-grey-700">Enter your email and password</p>
 
             <label for="email" class="mb-2 text-sm text-start text-grey-900">Email*</label>
